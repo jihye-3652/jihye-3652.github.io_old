@@ -22,15 +22,15 @@ img { max-width: 100%; }
 .navbar .dropdown ul li a {color:#fff;text-transform:capitalize;padding:12px 15px;display: block;}
 /* .navbar li a:hover,.navbar li a:focus ,.navbar-default .navbar-nav>.show>a, .navbar-default .navbar-nav>.show>a:focus, .navbar-default .navbar-nav>.show>a:hover{
     color: #fff;background: #4CAF50;outline: 0;} */
-.navbar .active > a,.navbar .active > a:focus,.navbar .active > a:hover {background: #4CAF50;}
+.navbar .active > a,.navbar .active > a:focus,.navbar .active > a:hover {background: #8080c0;}
     /*==========Sub Menu=v==========*/
-    .navbar .collapse  ul > li:hover > a{background: #4CAF50;}
+    .navbar .collapse  ul > li:hover > a{background: #8080c0;}
     .navbar .collapse ul ul > li:hover > a, .navbar-default .navbar-nav .show .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .show .dropdown-menu > li > a:hover{
-        background: #4CAF50;}
-    .navbar .collapse ul ul ul > li:hover > a{background: #4CAF50;}
-    .navbar .collapse ul ul, .navbar .collapse ul ul.dropdown-menu{background:#1565C0;}
-    .navbar .collapse ul ul ul, .navbar .collapse ul ul ul.dropdown-menu{background:#1E88E5}
-    .navbar .collapse ul ul ul ul, .navbar .collapse ul ul ul ul.dropdown-menu{background:#64B5F6}
+        background: #8080c0;}
+    .navbar .collapse ul ul ul > li:hover > a{background: #8080c0;}
+    .navbar .collapse ul ul, .navbar .collapse ul ul.dropdown-menu{background:#ff8080;}
+    .navbar .collapse ul ul ul, .navbar .collapse ul ul ul.dropdown-menu{background:#ff8080}
+    .navbar .collapse ul ul ul ul, .navbar .collapse ul ul ul ul.dropdown-menu{background:#408080}
     /******************************Drop-down menu work on hover**********************************/
     .navbar-nav .show .dropdown-menu .dropdown-menu > li > a{padding:16px 15px 16px 35px}
     .navbar-nav .show .dropdown-menu .dropdown-menu .dropdown-menu > li > a{padding:16px 15px 16px 45px}
