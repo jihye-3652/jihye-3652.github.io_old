@@ -76,7 +76,7 @@ img { max-width: 100%; }
         display: inline-block;
         margin: 0;
         vertical-align: middle;
-        background-image: url('/images/flags.png');
+        background-image: url('../images/flags.png');
     }
     .language-triangle {
         position: absolute;
@@ -113,7 +113,7 @@ img { max-width: 100%; }
 
 /*Header Start*/
 .header {
-    background: linear-gradient( rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.9) ), url('/images/bg-top_old.png');
+    background: linear-gradient( rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.9) ), url('../images/bg-top_old.png');
     background-position: center top;
     background-size: cover;
     color: white;
