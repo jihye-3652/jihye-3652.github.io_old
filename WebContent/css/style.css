@@ -12,6 +12,9 @@ img { max-width: 100%; }
 .align-center { text-align: center; }
 .btn-lg { padding: 16px 26px; }
 .container { padding-top: 10px; padding-bottom: 10px; }
+.header.section{
+	background-color:"litepink";
+}
 /*공통 End*/
 
 /*Menu Start*/
