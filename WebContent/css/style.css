@@ -12,9 +12,7 @@ img { max-width: 100%; }
 .align-center { text-align: center; }
 .btn-lg { padding: 16px 26px; }
 .container { padding-top: 10px; padding-bottom: 10px; }
-.header.section{
-	background-color:"litepink";
-}
+
 /*공통 End*/
 
 /*Menu Start*/
@@ -31,8 +29,8 @@ img { max-width: 100%; }
     .navbar .collapse ul ul > li:hover > a, .navbar-default .navbar-nav .show .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .show .dropdown-menu > li > a:hover{
         background: #8080c0;}
     .navbar .collapse ul ul ul > li:hover > a{background: #8080c0;}
-    .navbar .collapse ul ul, .navbar .collapse ul ul.dropdown-menu{background:#ff8080;}
-    .navbar .collapse ul ul ul, .navbar .collapse ul ul ul.dropdown-menu{background:#ff8080}
+    .navbar .collapse ul ul, .navbar .collapse ul ul.dropdown-menu{background:#adacdb;}
+    .navbar .collapse ul ul ul, .navbar .collapse ul ul ul.dropdown-menu{background:#adacdb}
     .navbar .collapse ul ul ul ul, .navbar .collapse ul ul ul ul.dropdown-menu{background:#408080}
     /******************************Drop-down menu work on hover**********************************/
     .navbar-nav .show .dropdown-menu .dropdown-menu > li > a{padding:16px 15px 16px 35px}
@@ -78,7 +76,7 @@ img { max-width: 100%; }
         display: inline-block;
         margin: 0;
         vertical-align: middle;
-        background-image: url('../images/flags.png');
+        background-image: url('/images/flags.png');
     }
     .language-triangle {
         position: absolute;
@@ -115,7 +113,7 @@ img { max-width: 100%; }
 
 /*Header Start*/
 .header {
-    background: linear-gradient( rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.9) ), url('../images/bg-top.png');
+    background: linear-gradient( rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.9) ), url('/images/bg-top_old.png');
     background-position: center top;
     background-size: cover;
     color: white;
